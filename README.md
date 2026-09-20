@@ -15,11 +15,11 @@ Votre musique garde sa propre fenêtre, distincte de votre navigation, de vos re
 
 Music Desktop ne prétend pas transformer YouTube Music : l’objectif est simplement de lui donner une place plus naturelle sur Windows, dans une application pensée pour la musique.
 
-## Un navigateur de moins
+## Gardez votre RAM pour l’essentiel
 
-Lors d’un relevé réalisé pendant le développement, **Brave avec uniquement YouTube Music ouvert** utilisait environ **571,7 Mo** de mémoire, contre **2,4 Mo** pour Music Desktop au même moment.
+**Adieu aux navigateurs qui dévorent votre RAM juste pour écouter de la musique.** Music Desktop est conçu pour rester léger et n’utiliser qu’une petite part de votre précieuse mémoire vive — autour de **10 Mo** lors de nos essais.
 
-Ce chiffre est indicatif : la consommation varie selon votre ordinateur, la lecture en cours, les extensions et les autres applications ouvertes. L’idée reste la même : ne pas garder un navigateur complet ouvert uniquement pour écouter de la musique.
+La consommation peut varier selon votre ordinateur, la lecture en cours et les applications ouvertes, mais l’idée reste la même : ne pas garder un navigateur complet ouvert uniquement pour écouter de la musique.
 
 ## Télécharger
 
