@@ -1,0 +1,11 @@
+{
+  "version": "1.2.4",
+  "notes": "Mises à jour intégrées\n\n- Vérifiez les nouvelles versions depuis les paramètres.\n- Téléchargez et installez une mise à jour après confirmation.\n- Chaque paquet est vérifié par signature cryptographique.",
+  "pub_date": "2026-09-20T22:24:54Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/Azashiin/Music-Desktop-Releases/releases/download/v1.2.4/Music-Desktop-1.2.4-Update.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMENQUkJybGNKbmY4N0NrZFhucXhnQzJXekNMVExMZjFFYkdORkFVRFZFdUtySjQxUmdjTmRiakwrZ2F1VGpTWnRzWlpkVG1pTFR5YmlBaG9BZzRtdDhRTitGMWtZcGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQzMDc3CWZpbGU6TXVzaWMgRGVza3RvcF8xLjIuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjQKN3pKT29qTFA5ZDc5UFZDSVFQWUJSZExUM3hibmJoVmNyM29KeFBJL2czM2NwOGZCdTZ3SmJZT3B5UkVuWVlBZlBiaWcwVlJSVUp4SnYrNXJjMDJDQmc9PQo="
+    }
+  }
+}

@@ -2,6 +2,12 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 1.2.4 — Mises à jour intégrées — 21 septembre 2026
+
+- Vérification des nouvelles versions directement depuis les paramètres de l’application.
+- Téléchargement, progression et installation après confirmation de l’utilisateur.
+- Chaque paquet de mise à jour est vérifié par signature cryptographique avant son installation.
+
 ## 1.2.3 — 20 septembre 2026
 
 - Ajout d’une option décochée par défaut pour supprimer toutes les données locales lors de la désinstallation.
