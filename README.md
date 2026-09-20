@@ -27,6 +27,8 @@ La consommation peut varier selon votre ordinateur, la lecture en cours et les a
 
 L’installateur est disponible pour Windows 64 bits dans la page de chaque release.
 
+Consultez le [changelog](CHANGELOG.md) pour découvrir les évolutions de chaque version.
+
 ## À propos
 
 Music Desktop est une application indépendante. Elle n’est pas affiliée à YouTube, Google ou Discord. Votre connexion à YouTube Music reste gérée par Google.
