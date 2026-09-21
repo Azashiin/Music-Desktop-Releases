@@ -26,7 +26,9 @@ La consommation peut varier selon votre ordinateur, la lecture en cours et les a
 ➡️ **[Télécharger la dernière version de Music Desktop](https://github.com/Azashiin/Music-Desktop-Releases/releases/latest)**
 
 L’installateur est disponible pour Windows 64 bits dans la page de chaque release.
-Après l’installation de la version 1.2.4, les versions suivantes pourront être vérifiées et installées directement depuis les paramètres de Music Desktop.
+Après l’installation de la version 1.2.5, les versions suivantes pourront être vérifiées et installées directement depuis les paramètres de Music Desktop.
+
+Si vous utilisiez déjà la version 1.2.4, installez simplement la 1.2.5 une dernière fois depuis cette page. Les mises à jour automatiques reprendront ensuite normalement.
 
 Consultez le [changelog](CHANGELOG.md) pour découvrir les évolutions de chaque version.
 

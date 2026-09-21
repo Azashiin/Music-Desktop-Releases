@@ -2,6 +2,18 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 1.2.5 — Un mini-lecteur plus vivant — 21 septembre 2026
+
+Cette mise à jour rend le mini-lecteur plus agréable à utiliser au quotidien, avec une présentation plus immersive et des commandes plus fiables.
+
+> Si vous utilisez déjà la version 1.2.4, téléchargez et installez cette version une dernière fois depuis GitHub. Les mises à jour suivantes reprendront ensuite automatiquement.
+
+- Une nouvelle ambiance visuelle : la pochette du morceau anime désormais le fond du mini-lecteur et accompagne les changements de titre.
+- Une lecture plus claire : les commandes ont été revues, le volume reste accessible en un geste et l’accès à la fenêtre principale est plus simple.
+- Une progression enfin fiable : le temps affiché, la barre de lecture et le volume suivent mieux ce qui se passe réellement dans YouTube Music, même à l’enchaînement des titres.
+- Une présence Discord plus personnelle : lorsque l’option est activée, la pochette du morceau écouté peut s’afficher dans votre activité.
+- Une notification de mise à jour plus discrète et mieux intégrée à l’application.
+
 ## 1.2.4 — Mises à jour intégrées — 21 septembre 2026
 
 - Vérification des nouvelles versions directement depuis les paramètres de l’application.

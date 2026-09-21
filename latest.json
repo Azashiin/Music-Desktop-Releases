@@ -1,11 +1,11 @@
 {
-  "version": "1.2.4",
-  "notes": "Mises à jour intégrées\n\n- Vérifiez les nouvelles versions depuis les paramètres.\n- Téléchargez et installez une mise à jour après confirmation.\n- Chaque paquet est vérifié par signature cryptographique.",
-  "pub_date": "2026-09-20T22:24:54Z",
+  "version": "1.2.5",
+  "notes": "Un mini-lecteur plus vivant\n\n- Une ambiance visuelle créée à partir de la pochette en cours.\n- Des commandes, une progression et un volume plus fiables.\n- La pochette peut aussi s’afficher dans l’activité Discord.",
+  "pub_date": "2026-09-21T08:10:10Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Azashiin/Music-Desktop-Releases/releases/download/v1.2.4/Music-Desktop-1.2.4-Update.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSMENQUkJybGNKbmY4N0NrZFhucXhnQzJXekNMVExMZjFFYkdORkFVRFZFdUtySjQxUmdjTmRiakwrZ2F1VGpTWnRzWlpkVG1pTFR5YmlBaG9BZzRtdDhRTitGMWtZcGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTQzMDc3CWZpbGU6TXVzaWMgRGVza3RvcF8xLjIuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjQKN3pKT29qTFA5ZDc5UFZDSVFQWUJSZExUM3hibmJoVmNyM29KeFBJL2czM2NwOGZCdTZ3SmJZT3B5UkVuWVlBZlBiaWcwVlJSVUp4SnYrNXJjMDJDQmc9PQo="
+      "url": "https://github.com/Azashiin/Music-Desktop-Releases/releases/download/v1.2.5/Music-Desktop-1.2.5-Update.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSR0pxTXJrT0N0ZHZKSGdPSnBGeFBaa21VZDJzMGRnRW1JRU50Qzg3clhjOTVFa0xqYWU3THdzMEZXY3JYb3cxaEtRMXR2QnpOdHg5S3BjNFA4TXFzVjFqY1phVCsxMmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTc4MTA0CWZpbGU6TXVzaWMgRGVza3RvcF8xLjIuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjUKeFE3d3Fhb2Y2VVFOc3RzUGxLWTJkdHllSFQxS25Ubi8zWHZlNXVBZzNnbERSMXIxOFIrRFdGMXE4bTcwbFJsakZaQjRQWGdyWmhjeDVjY0g5NFVoQXc9PQo="
     }
   }
 }
