@@ -1,11 +1,11 @@
 {
-  "version": "1.2.5",
-  "notes": "Un mini-lecteur plus vivant\n\n- Une ambiance visuelle créée à partir de la pochette en cours.\n- Des commandes, une progression et un volume plus fiables.\n- La pochette peut aussi s’afficher dans l’activité Discord.",
-  "pub_date": "2026-09-21T08:10:10Z",
+  "version": "1.2.6",
+  "notes": "Language Update\n\n- Music Desktop est maintenant disponible en français et en anglais.\n- Choisissez votre langue pendant l’installation ou à tout moment dans les paramètres.\n- Après redémarrage, les menus, le mini-lecteur, les notifications et les paramètres suivent votre choix.",
+  "pub_date": "2026-09-21T21:38:03Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Azashiin/Music-Desktop-Releases/releases/download/v1.2.5/Music.Desktop_1.2.5_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSR0pxTXJrT0N0ZHZKSGdPSnBGeFBaa21VZDJzMGRnRW1JRU50Qzg3clhjOTVFa0xqYWU3THdzMEZXY3JYb3cxaEtRMXR2QnpOdHg5S3BjNFA4TXFzVjFqY1phVCsxMmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5OTc4MTA0CWZpbGU6TXVzaWMgRGVza3RvcF8xLjIuNV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjUKeFE3d3Fhb2Y2VVFOc3RzUGxLWTJkdHllSFQxS25Ubi8zWHZlNXVBZzNnbERSMXIxOFIrRFdGMXE4bTcwbFJsakZaQjRQWGdyWmhjeDVjY0g5NFVoQXc9PQo="
+      "url": "https://github.com/Azashiin/Music-Desktop-Releases/releases/download/v1.2.6/Music.Desktop_1.2.6_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSR0pxTXJrT0N0ZHZZRDI1d1hPeHdtR0VLT09scVhZYVZtbEJIdVhIMTlxTWNwbG9ZVllIVkdTeTlyMlo0MndvbDBNZGhCUlpFK1ZtUktoaUtUamVVc1dRakIrYllrZkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDI2NjM4CWZpbGU6TXVzaWMgRGVza3RvcF8xLjIuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjYKWHZ2dThFclU0UXBZQ0xYeFlWZTJTTXpXWFFpcjVPeUs1aWtXZHF4akxWL1ZqaUVoOHJGdVJZMXBMN1NzMm0zYkV1NnFBSWV5Q3BzR2dyeCtNaDVlRGc9PQo="
     }
   }
 }

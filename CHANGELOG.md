@@ -2,6 +2,14 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 1.2.6 — Language Update — 21 septembre 2026
+
+Music Desktop est maintenant disponible en français et en anglais.
+
+- Choisissez la langue que vous préférez dans les paramètres.
+- Après le redémarrage, les menus, le mini-lecteur, les notifications et les paramètres suivent votre choix.
+- Choisissez la langue de Music Desktop pendant l’installation, puis changez-la à tout moment depuis les paramètres.
+
 ## 1.2.5 — Un mini-lecteur plus vivant — 21 septembre 2026
 
 Cette mise à jour rend le mini-lecteur plus agréable à utiliser au quotidien, avec une présentation plus immersive et des commandes plus fiables.
