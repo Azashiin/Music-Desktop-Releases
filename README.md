@@ -1,3 +1,5 @@
+![Bannière Music Desktop](assets/music-desktop-banner.png)
+
 # Music Desktop
 
 [English version](https://github.com/Azashiin/Music-Desktop-Releases-EN)
