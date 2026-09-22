@@ -2,6 +2,16 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 1.2.7 — Des réglages plus simples — 22 septembre 2026
+
+Cette version rassemble les réglages au même endroit et rend les commandes utiles plus faciles à retrouver.
+
+- Les paramètres s’ouvrent désormais directement au-dessus de votre musique, avec des rubriques claires pour l’application, Discord, les mises à jour et les informations utiles.
+- La barre du haut a été allégée : le mini-lecteur et les paramètres sont accessibles en un clic, sans raccourci clavier imposé.
+- Une page « Mises à jour » permet de vérifier les nouvelles versions, de les installer et de lire les nouveautés dans la langue choisie.
+- Le nombre de vues et de J’aime peut maintenant être affiché dans Discord Rich Presence si vous le souhaitez ; cette option reste désactivée par défaut.
+- Les paramètres restent agréables à utiliser même dans une petite fenêtre, avec un défilement discret.
+
 ## 1.2.6 — Language Update — 21 septembre 2026
 
 Music Desktop est maintenant disponible en français et en anglais.

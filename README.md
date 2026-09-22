@@ -1,5 +1,7 @@
 # Music Desktop
 
+[English version](https://github.com/Azashiin/Music-Desktop-Releases-EN)
+
 ## YouTube Music à sa place.
 
 **Music Desktop** est une application Windows dédiée à YouTube Music. Elle s’adresse à celles et ceux qui veulent simplement écouter leur musique sans laisser un navigateur ouvert uniquement pour un onglet de lecture.
