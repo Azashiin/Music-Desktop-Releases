@@ -2,6 +2,11 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 1.2.8 — Les paramètres restent à leur place — 22 septembre 2026
+
+- Correction d’un problème qui maintenait la fenêtre des paramètres au premier plan sans raison.
+- Vous pouvez maintenant choisir les raccourcis de l’application.
+
 ## 1.2.7 — Vos réglages, plus simplement — 22 septembre 2026
 
 Cette mise à jour rend les petites choses du quotidien plus naturelles : vos réglages, votre mini-lecteur et vos mises à jour sont exactement là où vous les attendez.

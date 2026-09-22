@@ -1,11 +1,11 @@
 {
-  "version": "1.2.7",
-  "notes": "## Français\n\n### Vos réglages, plus simplement\n\nCette mise à jour remet l’essentiel à portée de main.\n\n- Les paramètres ont été repensés avec une interface plus claire et mieux organisée.\n- Le mini-lecteur reste disponible en un clic depuis la barre du haut.\n- Les mises à jour et leurs nouveautés se retrouvent enfin au même endroit.\n- Les vues et les J’aime restent privés par défaut dans Discord, mais vous pouvez les afficher si vous le souhaitez.\n\n## English\n\n### Settings that feel simpler\n\nThis update puts the essentials right where you need them.\n\n- Settings have been redesigned with a clearer, better-organized interface.\n- The mini player is still one click away from the top bar.\n- Updates and what is new are finally brought together in one place.\n- Views and likes stay private by default in Discord, but you can choose to show them.",
-  "pub_date": "2026-09-22T09:13:29Z",
+  "version": "1.2.8",
+  "notes": "## Français\n\n### Les paramètres restent à leur place\n\n- Correction d’un problème qui maintenait la fenêtre des paramètres au premier plan sans raison.\n- Vous pouvez maintenant choisir les raccourcis de l’application.\n\n## English\n\n### Settings stay where they belong\n\n- Fixed an issue that kept the Settings window always on top for no reason.\n- You can now choose the app shortcuts.",
+  "pub_date": "2026-09-22T14:36:41Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Azashiin/Music-Desktop-Releases/releases/download/v1.2.7/Music.Desktop_1.2.7_x64-updater.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSR0pxTXJrT0N0ZGtMQlp2ZXVtOGtyTFY0UUlFZzhLTlBwZUVzWjB3NGF3SlJES1dGQ0dwU3dMcVkybXluakpoaXFJR3N1OCthWXhGcEhENjJjWDcxWG81ZXYxeitQeFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDY4MjQ1CWZpbGU6TXVzaWMgRGVza3RvcF8xLjIuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjcKNnNVY0htemYxNGp4Z0R6Z0xrUDNib1k4QSt0Q1AzMnE1SHNhazBBZWM2QUR5Z2VoS283SGJ2dS9DVVMzd2lTcEl6aEFOT0RITzBpZko5eEp0b1JVQ3c9PQo="
+      "url": "https://github.com/Azashiin/Music-Desktop-Releases/releases/download/v1.2.8/Music.Desktop_1.2.8_x64-updater.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSR0pxTXJrT0N0ZGhnOGtsclVEaGE4MlJXY3QzYWJvUW5vSkRpdm5nSmpHZ2pncnJDOGpQemhRalpiWE5hRmFQNDBHZngxYjRZMlJ0SmxubEJtYStLQys1cGpsWXJoOWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDg3NzI1CWZpbGU6TXVzaWMgRGVza3RvcF8xLjIuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjgKS3U2bTVMamthL0VKamliTStEWmRlNkpVU0phQXFiQkpqOWo5OGpVQk9Yd0pPNTI5NWZKaHFFRmpKelBjTmNwSEtWbUl2TS8yTlJvOVVjMml0aHVGRFE9PQo="
     }
   }
 }
