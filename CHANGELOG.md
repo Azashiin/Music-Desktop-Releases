@@ -6,7 +6,7 @@ Les nouveautés et améliorations de Music Desktop.
 
 Cette mise à jour rend les petites choses du quotidien plus naturelles : vos réglages, votre mini-lecteur et vos mises à jour sont exactement là où vous les attendez.
 
-- Vos réglages font désormais partie de Music Desktop : ils s’ouvrent directement au-dessus de votre musique, sans interrompre votre écoute.
+- Les paramètres ont été repensés avec une interface plus claire et mieux organisée, pour retrouver chaque option plus facilement.
 - Le mini-lecteur est toujours à portée de clic depuis la barre du haut.
 - Vous pouvez vérifier une nouvelle version, l’installer et découvrir ses nouveautés depuis un seul endroit.
 - Votre activité Discord reste à votre image : les nombres de vues et de J’aime sont masqués par défaut, mais vous pouvez choisir de les afficher.
