@@ -2,6 +2,16 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 1.2.9 — Plus pratique au quotidien — 25 septembre 2026
+
+- Music Desktop peut démarrer avec Windows, en ouvrant sa fenêtre ou en restant en arrière-plan.
+- Vous choisissez si l’application se ferme ou reste active quand vous fermez sa fenêtre.
+- Les raccourcis fonctionnent même quand vous utilisez une autre application.
+- Le mini-lecteur se souvient de sa place et de l’option « Toujours au-dessus ».
+- Si Music Desktop est déjà ouvert, le relancer affiche sa fenêtre au lieu d’en ouvrir une deuxième.
+- Music Desktop apparaît maintenant dans le menu Démarrer.
+- La barre de défilement de YouTube Music n’est plus visible.
+
 ## 1.2.8 — Les paramètres restent à leur place — 22 septembre 2026
 
 - Correction d’un problème qui maintenait la fenêtre des paramètres au premier plan sans raison.

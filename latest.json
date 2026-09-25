@@ -1,11 +1,11 @@
 {
-  "version": "1.2.8",
-  "notes": "## Français\n\n### Les paramètres restent à leur place\n\n- Correction d’un problème qui maintenait la fenêtre des paramètres au premier plan sans raison.\n- Vous pouvez maintenant choisir les raccourcis de l’application.\n\n## English\n\n### Settings stay where they belong\n\n- Fixed an issue that kept the Settings window always on top for no reason.\n- You can now choose the app shortcuts.",
-  "pub_date": "2026-09-22T14:36:41Z",
+  "version": "1.2.9",
+  "notes": "## Français\n\n### Plus pratique au quotidien\n\n- Music Desktop peut démarrer avec Windows, en ouvrant sa fenêtre ou en restant en arrière-plan.\n- Vous choisissez si l’application se ferme ou reste active quand vous fermez sa fenêtre.\n- Les raccourcis fonctionnent même quand vous utilisez une autre application.\n- Le mini-lecteur se souvient de sa place et de l’option « Toujours au-dessus ».\n- Si Music Desktop est déjà ouvert, le relancer affiche sa fenêtre au lieu d’en ouvrir une deuxième.\n- Music Desktop apparaît maintenant dans le menu Démarrer.\n- La barre de défilement de YouTube Music n’est plus visible.\n\n## English\n\n### Easier every day\n\n- Music Desktop can start with Windows, opening its window or staying in the background.\n- Choose whether the app closes or keeps running when you close its window.\n- Shortcuts work even when you are using another app.\n- The mini player remembers where you placed it and whether “Always on top” is on.\n- If Music Desktop is already open, launching it again shows its window instead of opening a second one.\n- Music Desktop now appears in the Start menu.\n- The YouTube Music scrollbar is no longer visible.",
+  "pub_date": "2026-09-25T00:57:34Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/Azashiin/Music-Desktop-Releases/releases/download/v1.2.8/Music.Desktop_1.2.8_x64-updater.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSR0pxTXJrT0N0ZGhnOGtsclVEaGE4MlJXY3QzYWJvUW5vSkRpdm5nSmpHZ2pncnJDOGpQemhRalpiWE5hRmFQNDBHZngxYjRZMlJ0SmxubEJtYStLQys1cGpsWXJoOWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDg3NzI1CWZpbGU6TXVzaWMgRGVza3RvcF8xLjIuOF94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjgKS3U2bTVMamthL0VKamliTStEWmRlNkpVU0phQXFiQkpqOWo5OGpVQk9Yd0pPNTI5NWZKaHFFRmpKelBjTmNwSEtWbUl2TS8yTlJvOVVjMml0aHVGRFE9PQo="
+      "url": "https://github.com/Azashiin/Music-Desktop-Releases/releases/download/v1.2.9/Music.Desktop_1.2.9_x64-updater.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSR0pxTXJrT0N0ZHE1dlRkMTJFUUVyOTVYUVd4SFIvR0RCOWpjNWkzOGo4bVFzbHFhU25qcnJLNERDU2VoYVFQTkJPcnNCTWZQRUtDV1NDRlRKcFRoSzRDaGUvZDcrYndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjk3NTc4CWZpbGU6TXVzaWMgRGVza3RvcF8xLjIuOV94NjQtc2V0dXAuZXhlCXZlcnNpb246MS4yLjkKVjNiUitDQkNvOFNCSHRGRzFoU1c3YTdMMVNZMEo1T2toV2w5VVN2Y1dqUmlXN3RLRU1LRURIWEZPQzFZVE9abXlwak1neEIwN1gvWWMweE9CZ3J1Q2c9PQo="
     }
   }
 }
