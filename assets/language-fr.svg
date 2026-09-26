@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="216" height="62" viewBox="0 0 216 62" role="img" aria-labelledby="title">
+  <title id="title">Français</title>
+  <rect x="1" y="1" width="214" height="60" rx="10" fill="#17181f" stroke="#42434c" stroke-width="2"/>
+  <rect x="1" y="1" width="5" height="60" rx="2" fill="#f52e53"/>
+  <text x="25" y="38" fill="#ffffff" font-family="Arial, sans-serif" font-size="22" font-weight="700">FR</text>
+  <text x="74" y="37" fill="#d7d8df" font-family="Arial, sans-serif" font-size="16">Français</text>
+</svg>
