@@ -1,28 +1,42 @@
-# MusicDesktop
+![Bannière Music Desktop](../assets/music-desktop-banner.png)
 
-[← Choisir une langue](../README.md) · [English](../en/README.md)
+# Music Desktop
 
-## YouTube Music, à sa place.
+[English version](../en/README.md)
 
-**MusicDesktop** est une application Windows dédiée à YouTube Music. Votre musique dispose de sa propre fenêtre et d'un mini-lecteur, sans devoir garder un onglet de navigateur ouvert uniquement pour l'écouter.
+## YouTube Music à sa place.
 
-### Ce que propose l'application
+**Music Desktop** est une application Windows dédiée à YouTube Music. Elle s’adresse à celles et ceux qui veulent simplement écouter leur musique sans laisser un navigateur ouvert uniquement pour un onglet de lecture.
 
-- Une fenêtre dédiée à YouTube Music.
-- Un mini-lecteur qui reste à portée de main.
-- Des raccourcis et des commandes accessibles pendant que vous utilisez d'autres applications.
-- Une intégration Discord facultative pour afficher le morceau en cours.
+Votre musique garde sa propre fenêtre, distincte de votre navigation, de vos recherches et de vos autres activités.
 
-### Télécharger
+## Pourquoi Music Desktop ?
 
-**[Télécharger la dernière version pour Windows 10 et 11](https://github.com/Azashiin/Music-Desktop-Releases/releases/latest)**
+- Une fenêtre dédiée à YouTube Music, sans onglet de navigateur à garder ouvert.
+- Un mini-lecteur qui reste accessible au-dessus des autres fenêtres.
+- Des commandes simples pour continuer à écouter pendant que vous travaillez, jouez ou discutez.
+- Une intégration Discord facultative pour afficher le morceau en cours d’écoute.
 
-Dans les fichiers de la version, choisissez l'installateur `Music.Desktop_*_x64-setup.exe`. **Le même fichier installe les versions française et anglaise** : la langue se choisit pendant l'installation et peut ensuite être changée dans les paramètres.
+Music Desktop ne prétend pas transformer YouTube Music : l’objectif est simplement de lui donner une place plus naturelle sur Windows, dans une application pensée pour la musique.
 
-Les mises à jour sont vérifiables et installables depuis l'application. Consultez les [notes de mise à jour en français](CHANGELOG.md) pour voir les nouveautés.
+## Gardez votre RAM pour l’essentiel
 
-### À propos
+Music Desktop utilise WebView2 pour afficher YouTube Music. Sa consommation de mémoire dépend donc de la page, de la lecture et de votre ordinateur ; elle n’est pas limitée à quelques mégaoctets. L’intérêt est de disposer d’une application dédiée plutôt que de garder un onglet de musique ouvert dans votre navigateur habituel.
 
-MusicDesktop est une application indépendante, sans affiliation avec YouTube, Google ou Discord. La connexion à YouTube Music reste gérée par Google.
+## Télécharger
 
-Ce dépôt publie les installateurs et les fichiers de mise à jour ; le code source de l'application n'y est pas distribué.
+➡️ **[Télécharger la dernière version de Music Desktop](https://github.com/Azashiin/Music-Desktop-Releases/releases/latest)**
+
+L’installateur est disponible pour Windows 64 bits dans la page de chaque release. Le même fichier sert au français et à l’anglais : choisissez votre langue pendant l’installation, puis changez-la à tout moment dans les paramètres.
+
+Après l’installation de la version 1.2.5, les versions suivantes peuvent être vérifiées et installées directement depuis les paramètres de Music Desktop.
+
+Si vous utilisiez déjà la version 1.2.4, installez simplement la 1.2.5 une dernière fois depuis cette page. Les mises à jour automatiques reprendront ensuite normalement.
+
+Consultez les [notes de mise à jour](CHANGELOG.md) pour découvrir les évolutions de chaque version.
+
+## À propos
+
+Music Desktop est une application indépendante. Elle n’est pas affiliée à YouTube, Google ou Discord. Votre connexion à YouTube Music reste gérée par Google.
+
+Ce dépôt sert uniquement à publier les versions de Music Desktop : aucun code source de l’application n’y est distribué.

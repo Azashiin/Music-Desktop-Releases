@@ -1,28 +1,42 @@
-# MusicDesktop
+![Music Desktop banner](../assets/music-desktop-banner.png)
 
-[← Choose a language](../README.md) · [Français](../fr/README.md)
+# Music Desktop
+
+[Version française](../fr/README.md)
 
 ## YouTube Music, in its own place.
 
-**MusicDesktop** is a Windows application dedicated to YouTube Music. Your music gets its own window and mini player, without keeping a browser tab open just to listen.
+**Music Desktop** is a Windows application dedicated to YouTube Music. It is for anyone who simply wants to listen without leaving a full browser open just for a music tab.
 
-### What the app offers
+Your music keeps its own window, separate from browsing, searches, and everything else you do.
 
-- A dedicated YouTube Music window.
-- A mini player that stays close at hand.
-- Shortcuts and controls available while you use other apps.
-- Optional Discord integration to show the track you are playing.
+## Why Music Desktop?
 
-### Download
+- A dedicated YouTube Music window, without a browser tab to keep open.
+- A mini player that stays accessible above other windows.
+- Simple controls so your music is still within reach while you work, play, or chat.
+- Optional Discord integration to show the track you are listening to.
 
-**[Download the latest version for Windows 10 and 11](https://github.com/Azashiin/Music-Desktop-Releases/releases/latest)**
+Music Desktop does not try to transform YouTube Music. Its purpose is simply to give it a more natural place on Windows, in an application made for music.
 
-From the release assets, choose the `Music.Desktop_*_x64-setup.exe` installer. **The same file installs both the English and French versions**: choose your language during installation, then change it at any time in Settings.
+## Keep your RAM for what matters
 
-You can check for and install updates from the app. Read the [English release notes](CHANGELOG.md) to see what changed.
+Music Desktop uses WebView2 to display YouTube Music. Memory usage therefore depends on the page, playback, and your computer; it is not limited to a few megabytes. The benefit is having a dedicated app instead of keeping a music tab open in your usual browser.
 
-### About
+## Download
 
-MusicDesktop is an independent application and is not affiliated with YouTube, Google, or Discord. Your YouTube Music sign-in remains managed by Google.
+➡️ **[Download the latest version of Music Desktop](https://github.com/Azashiin/Music-Desktop-Releases/releases/latest)**
 
-This repository publishes installers and update files; it does not distribute the application source code.
+The installer is available for 64-bit Windows from each release page. The same file serves both English and French: choose your language during installation, then change it at any time in Settings.
+
+After installing version 1.2.5, later versions can be checked and installed directly from Music Desktop settings.
+
+If you are still using version 1.2.4, install version 1.2.5 once from GitHub. Updates will work normally after that.
+
+See the [release notes](CHANGELOG.md) for every version’s improvements.
+
+## About
+
+Music Desktop is an independent application. It is not affiliated with or endorsed by YouTube, Google, or Discord. Your YouTube Music sign-in remains managed by Google.
+
+This repository exists only to distribute Music Desktop releases. No application source code is published here.
