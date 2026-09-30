@@ -16,12 +16,13 @@ Your music keeps its own window, separate from browsing, searches, and everythin
 - A mini player that stays accessible above other windows.
 - Simple controls so your music is still within reach while you work, play, or chat.
 - Optional Discord integration to show the track you are listening to.
+- Pairing with MusicDesktop Remote to control playback from your phone.
 
 Music Desktop does not try to transform YouTube Music. Its purpose is simply to give it a more natural place on Windows, in an application made for music.
 
-## Keep your RAM for what matters
+## MusicDesktop Remote
 
-Music Desktop uses WebView2 to display YouTube Music. Memory usage therefore depends on the page, playback, and your computer; it is not limited to a few megabytes. The benefit is having a dedicated app instead of keeping a music tab open in your usual browser.
+Pair your phone with the PC from MusicDesktop settings. You can then control playback, search for tracks and browse the queue remotely. Music keeps playing on the PC.
 
 ## Download
 
@@ -29,9 +30,7 @@ Music Desktop uses WebView2 to display YouTube Music. Memory usage therefore dep
 
 The installer is available for 64-bit Windows from each release page. The same file serves both English and French: choose your language during installation, then change it at any time in Settings.
 
-After installing version 1.2.5, later versions can be checked and installed directly from Music Desktop settings.
-
-If you are still using version 1.2.4, install version 1.2.5 once from GitHub. Updates will work normally after that.
+New versions can be checked and installed from MusicDesktop settings.
 
 See the [release notes](CHANGELOG.md) for every version’s improvements.
 

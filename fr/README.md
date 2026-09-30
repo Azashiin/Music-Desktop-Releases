@@ -16,12 +16,13 @@ Votre musique garde sa propre fenêtre, distincte de votre navigation, de vos re
 - Un mini-lecteur qui reste accessible au-dessus des autres fenêtres.
 - Des commandes simples pour continuer à écouter pendant que vous travaillez, jouez ou discutez.
 - Une intégration Discord facultative pour afficher le morceau en cours d’écoute.
+- L’association avec MusicDesktop Remote pour piloter la lecture depuis votre téléphone.
 
 Music Desktop ne prétend pas transformer YouTube Music : l’objectif est simplement de lui donner une place plus naturelle sur Windows, dans une application pensée pour la musique.
 
-## Gardez votre RAM pour l’essentiel
+## MusicDesktop Remote
 
-Music Desktop utilise WebView2 pour afficher YouTube Music. Sa consommation de mémoire dépend donc de la page, de la lecture et de votre ordinateur ; elle n’est pas limitée à quelques mégaoctets. L’intérêt est de disposer d’une application dédiée plutôt que de garder un onglet de musique ouvert dans votre navigateur habituel.
+Associez votre téléphone au PC depuis les paramètres de MusicDesktop. Vous pouvez ensuite contrôler la lecture, rechercher des titres et consulter la file d’attente à distance. La musique continue de jouer sur le PC.
 
 ## Télécharger
 
@@ -29,9 +30,7 @@ Music Desktop utilise WebView2 pour afficher YouTube Music. Sa consommation de m
 
 L’installateur est disponible pour Windows 64 bits dans la page de chaque release. Le même fichier sert au français et à l’anglais : choisissez votre langue pendant l’installation, puis changez-la à tout moment dans les paramètres.
 
-Après l’installation de la version 1.2.5, les versions suivantes peuvent être vérifiées et installées directement depuis les paramètres de Music Desktop.
-
-Si vous utilisiez déjà la version 1.2.4, installez simplement la 1.2.5 une dernière fois depuis cette page. Les mises à jour automatiques reprendront ensuite normalement.
+Les nouvelles versions peuvent être vérifiées et installées depuis les paramètres de MusicDesktop.
 
 Consultez les [notes de mise à jour](CHANGELOG.md) pour découvrir les évolutions de chaque version.
 

@@ -2,6 +2,14 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 2.0.0 — MusicDesktop repensé
+
+- Une nouvelle interface propre à MusicDesktop accueille YouTube Music dans une vue séparée. Les paramètres et les commandes restent accessibles pendant son chargement.
+- L’écran de démarrage indique l’état de la connexion et permet de réessayer si YouTube Music est momentanément indisponible.
+- Associez MusicDesktop Remote à votre PC avec un QR code ou un code temporaire, puis autorisez le téléphone depuis MusicDesktop.
+- Depuis le téléphone associé, contrôlez la lecture, recherchez des titres et consultez la file d’attente de la session YouTube Music ouverte sur le PC.
+- YouTube Music reste la seule plateforme musicale disponible dans cette version ; SoundCloud et Bandcamp sont prévus pour plus tard.
+
 ## 1.2.9 — Plus pratique au quotidien — 25 septembre 2026
 
 - Music Desktop peut démarrer avec Windows, en ouvrant sa fenêtre ou en restant en arrière-plan.
