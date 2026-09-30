@@ -2,7 +2,7 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
-## 2.0.0 — MusicDesktop repensé
+## 2.0.0 — MusicDesktop repensé — 30 septembre 2026
 
 - Une nouvelle interface propre à MusicDesktop accueille YouTube Music dans une vue séparée. Les paramètres et les commandes restent accessibles pendant son chargement.
 - L’écran de démarrage indique l’état de la connexion et permet de réessayer si YouTube Music est momentanément indisponible.
