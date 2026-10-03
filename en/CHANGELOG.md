@@ -2,6 +2,12 @@
 
 What is new and improved in Music Desktop.
 
+## 2.0.1 — More controls for MusicDesktop Remote — October 3, 2026
+
+- Remote’s For You tab shows recommendations from the YouTube Music session open on the PC.
+- Turn repeat-one and shuffle on or off from your phone to control playback on the PC.
+- The installer asks before closing MusicDesktop if it is still open during an update.
+
 ## 2.0.0 — A refreshed MusicDesktop — September 30, 2026
 
 - A new MusicDesktop interface keeps YouTube Music in a separate view. Settings and controls remain available while it loads.

@@ -2,6 +2,12 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 2.0.1 — MusicDesktop Remote, plus complet — 3 octobre 2026
+
+- L’onglet « Pour vous » de Remote affiche des recommandations issues de la session YouTube Music ouverte sur le PC.
+- Depuis le téléphone, activez ou désactivez la répétition du titre et la lecture aléatoire sur le PC.
+- L’installateur demande votre accord pour fermer MusicDesktop s’il est déjà ouvert pendant la mise à jour.
+
 ## 2.0.0 — MusicDesktop repensé — 30 septembre 2026
 
 - Une nouvelle interface propre à MusicDesktop accueille YouTube Music dans une vue séparée. Les paramètres et les commandes restent accessibles pendant son chargement.
