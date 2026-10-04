@@ -2,6 +2,14 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 2.0.2 — Un mini-lecteur plus pratique et optimisé — 4 octobre 2026
+
+- Quatre présentations du mini-lecteur : Classic, Carré, Compact et Mini.
+- Aperçu sans morceau en cours, emplacements prédéfinis et mémorisation de la position.
+- Fond animé et progression optimisés, avec des mises à jour suspendues lorsque le contenu est caché ou rétracté.
+- Mode économie de mémoire activé à la minimisation de la fenêtre principale, en conservant la lecture.
+- Suivi de lecture optimisé, avec des changements de morceau et des commandes réactifs.
+
 ## 2.0.1 — MusicDesktop Remote, plus complet — 3 octobre 2026
 
 - L’onglet « Pour vous » de Remote affiche des recommandations issues de la session YouTube Music ouverte sur le PC.

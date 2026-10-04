@@ -2,6 +2,14 @@
 
 What is new and improved in Music Desktop.
 
+## 2.0.2 — A more practical, optimized Mini Player — October 4, 2026
+
+- Four Mini Player layouts: Classic, Square, Compact and Mini.
+- Preview without a track playing, preset positions and remembered placement.
+- Optimized animated artwork and progress, with updates stopped while content is hidden or retracted.
+- Memory-saving mode activates when the main window is minimized, while playback continues.
+- Optimized playback tracking with responsive track changes and controls.
+
 ## 2.0.1 — More controls for MusicDesktop Remote — October 3, 2026
 
 - Remote’s For You tab shows recommendations from the YouTube Music session open on the PC.
