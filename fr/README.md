@@ -24,6 +24,19 @@ Music Desktop ne prétend pas transformer YouTube Music : l’objectif est simpl
 
 Associez votre téléphone au PC depuis les paramètres de MusicDesktop. Vous pouvez ensuite contrôler la lecture, rechercher des titres et consulter la file d’attente à distance. La musique continue de jouer sur le PC.
 
+## Studio Streamer
+
+Avec MusicDesktop 2.0.3, ajoutez un overlay de votre morceau à OBS ou Streamlabs.
+Six présentations et six styles personnalisables permettent de choisir le fond,
+la pochette, les textes et la progression. Le panneau propose un aperçu, les
+commandes et un guide ; enregistrez vos changements pour les appliquer à OBS.
+
+Pilotez aussi la lecture avec l'[extension MusicDesktop pour Deckboard](https://github.com/Azashiin/MusicDesktop-Deckboard)
+ou le plugin Elgato Stream Deck, disponibles dans **Panneau Streamer → Commandes**.
+La capture audio se configure séparément dans votre logiciel de diffusion.
+
+![Styles d'overlay MusicDesktop](../assets/streamer-styles.png)
+
 ## Télécharger
 
 ➡️ **[Télécharger la dernière version de Music Desktop](https://github.com/Azashiin/Music-Desktop-Releases/releases/latest)**

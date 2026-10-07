@@ -24,6 +24,19 @@ Music Desktop does not try to transform YouTube Music. Its purpose is simply to 
 
 Pair your phone with the PC from MusicDesktop settings. You can then control playback, search for tracks and browse the queue remotely. Music keeps playing on the PC.
 
+## Streamer Studio
+
+MusicDesktop 2.0.3 lets you add a track overlay to OBS or Streamlabs. Six layouts
+and six editable styles let you choose the background, artwork, text and
+progress. The dashboard provides a preview, controls and guide; save your
+changes to apply them to OBS.
+
+Control playback with the [MusicDesktop Deckboard extension](https://github.com/Azashiin/MusicDesktop-Deckboard)
+or the Elgato Stream Deck plugin, available under **Streamer Dashboard → Controls**.
+Audio capture is configured separately in your streaming software.
+
+![MusicDesktop overlay styles](../assets/streamer-styles.png)
+
 ## Download
 
 ➡️ **[Download the latest version of Music Desktop](https://github.com/Azashiin/Music-Desktop-Releases/releases/latest)**

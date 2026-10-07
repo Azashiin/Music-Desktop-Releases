@@ -2,6 +2,16 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 2.0.3 — Streamer Update — 7 octobre 2026
+
+- Mode Streamer et overlays OBS/Streamlabs, avec six présentations et six styles personnalisables.
+- Nouveau Studio : aperçu en direct, réglages regroupés, commandes et guide, en français et anglais.
+- Fonds dégradés, cadres, forme de pochette, typographie et progression personnalisables.
+- Brouillons indépendants avant enregistrement dans OBS, avec reprise des configurations existantes.
+- Extensions MusicDesktop pour Deckboard et Elgato Stream Deck, avec états des boutons en direct.
+- Nouveaux raccourcis de lecture, volume, mini-lecteur et mode Streamer.
+- Service local optionnel, accès d'affichage OBS séparé de la connexion de contrôle.
+
 ## 2.0.2 — Un mini-lecteur plus pratique et optimisé — 4 octobre 2026
 
 - Quatre présentations du mini-lecteur : Classic, Carré, Compact et Mini.
