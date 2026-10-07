@@ -2,6 +2,12 @@
 
 What is new and improved in Music Desktop.
 
+## 2.0.4 — MusicDesktop Remote compatibility fix — October 8, 2026
+
+- Restored current-track information, artwork, progress and playback-state updates in Remote after 2.0.3.
+- Message format compatible with the existing mobile application and relay.
+- Existing pairings are preserved; install the update on the PC.
+
 ## 2.0.3 — Streamer Update — October 7, 2026
 
 - Streamer Mode and OBS/Streamlabs overlays, with six layouts and six editable styles.

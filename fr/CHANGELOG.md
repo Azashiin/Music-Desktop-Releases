@@ -2,6 +2,12 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 2.0.4 — Correction MusicDesktop Remote — 8 octobre 2026
+
+- Rétablissement du morceau en cours, de la pochette, de la progression et de l'état de lecture dans Remote après la 2.0.3.
+- Format de communication compatible avec l'application mobile et le relais existants.
+- Conservation des appairages déjà enregistrés ; mise à jour à installer sur le PC.
+
 ## 2.0.3 — Streamer Update — 7 octobre 2026
 
 - Mode Streamer et overlays OBS/Streamlabs, avec six présentations et six styles personnalisables.
