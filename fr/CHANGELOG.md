@@ -2,6 +2,54 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 2.0.5 — Paroles, thèmes et Last.fm — 11 octobre 2026
+
+### Les paroles sur Remote
+
+- Retrouvez les paroles du morceau depuis le bouton **Paroles**, au centre de la barre supérieure de Remote. Le bouton reste grisé lorsqu’elles ne sont pas disponibles.
+- Les paroles de YouTube Music sont complétées par LRCLIB. Lorsqu’une synchronisation existe, la ligne en cours est surlignée et défile avec la lecture.
+- Touchez une ligne pour avancer dans le morceau, reprenez le suivi après un défilement manuel et ajustez un éventuel décalage par pas de 50 ms.
+- La source reste visible : synchronisation d’origine en gris, estimation **Synchronisé par MusicDesktop** en rouge.
+
+### Paroles automatiques — EXPÉRIMENTALE
+
+- Un moteur facultatif analyse localement une écoute complète lorsque les paroles existent sans temps de synchronisation. Les temps déjà fournis par YouTube Music ou LRCLIB restent prioritaires.
+- Le moteur se télécharge séparément : suivi par fichier avec octets, pourcentage et vitesse, annulation, reprise et suppression depuis les paramètres.
+- Consultez les morceaux analysés dans une fenêtre dédiée, essayez un résultat ou effacez-le. Les résultats conservés servent aux écoutes suivantes.
+- L’état affiche la recherche des paroles, l’audio reçu et les étapes du calcul. Correction du plantage lors de l’arrêt de l’analyse et de l’isolation du chant.
+- **Cette fonction reste expérimentale**, désactivée par défaut. Elle nécessite Windows 11 pour la capture audio, plusieurs Go de modèles et des ressources CPU/mémoire. La précision varie selon les morceaux ; aucune précision à la milliseconde n’est garantie. Aucun audio n’est envoyé à un service de reconnaissance.
+
+### Votre file et vos playlists
+
+- Réorganisez les prochains morceaux dans Remote par glisser-déposer ou avec les commandes de déplacement.
+- Retrouvez les playlists du compte YouTube Music connecté sur le PC : création privée par défaut, renommage, suppression et retrait d’un morceau.
+- Ajoutez le titre en cours à une playlist depuis le lecteur. Les confirmations et le rafraîchissement après création ou ajout ont été corrigés.
+
+**Les fonctions mobiles ci-dessus nécessitent MusicDesktop Remote 1.0.5 ou une version compatible.** Remote reste distribué dans le programme de test fermé Android ; l’installateur PC n’inclut pas l’application mobile. [Rejoindre les tests](https://musicdesktop.net/fr/remote.html).
+
+### Last.fm
+
+- Connectez votre compte dans **Paramètres → Last.fm**, autorisez MusicDesktop dans le navigateur puis activez l’enregistrement de vos écoutes.
+- Le titre en cours est annoncé sur votre profil. Les morceaux de plus de 30 secondes sont enregistrés après la moitié de leur durée réellement écoutée, ou quatre minutes pour les titres longs.
+- Les envois partent du PC, même téléphone fermé. Les écoutes en attente sont conservées sous protection Windows et reprises lorsque Last.fm redevient accessible.
+- Vous pouvez arrêter l’enregistrement ou déconnecter votre compte à tout moment. Aucun audio n’est envoyé à Last.fm.
+
+### Thèmes et paramètres
+
+- Trois thèmes : **MusicDesktop**, **Akyraïs** (blanc pur et lavande) et **Asashiin** (noir profond et violet électrique).
+- Icônes alignées à gauche des rubriques, textes revus et pages Streamer/Paroles automatiques retravaillées.
+- Mention **EXPÉRIMENTALE** bien visible en haut de la page Paroles automatiques.
+
+### Mises à jour et Streamer
+
+- Nouveau suivi du téléchargement dans l’application : fichier, taille, octets reçus, pourcentage et vitesse.
+- Une mise à jour téléchargée reste prête jusqu’au redémarrage que vous choisissez. Sa signature est vérifiée avant l’installation.
+- La notification de mise à jour apparaît après le chargement de l’application.
+- Switch **ON/OFF** Streamer dans la barre supérieure. Streamer revient sur OFF à chaque lancement, en conservant vos réglages et liens OBS.
+- Les overlays et extensions Deckboard/Stream Deck des versions précédentes restent compatibles.
+
+Téléchargez **Music.Desktop_2.0.5_x64-setup.exe** pour Windows 10/11, 64 bits. Les modèles de paroles sont facultatifs et téléchargés séparément. Vos préférences, associations Remote et modèles installés sont conservés lors d’une mise à jour normale.
+
 ## 2.0.4 — Correction MusicDesktop Remote — 8 octobre 2026
 
 - Rétablissement du morceau en cours, de la pochette, de la progression et de l'état de lecture dans Remote après la 2.0.3.

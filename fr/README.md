@@ -37,6 +37,21 @@ La capture audio se configure séparément dans votre logiciel de diffusion.
 
 ![Styles d'overlay MusicDesktop](../assets/streamer-styles.png)
 
+## Nouveautés de la 2.0.5
+
+- Paroles sur Remote, avec YouTube Music et LRCLIB ; moteur local facultatif
+  **expérimental** pour les textes sans synchronisation.
+- File réorganisable et gestion des playlists du compte YouTube Music connecté
+  sur le PC, avec **Remote 1.0.5 ou une version compatible**.
+- Connexion Last.fm et enregistrement des écoutes sur activation explicite.
+- Trois thèmes : MusicDesktop, Akyraïs et Asashiin.
+- Suivi détaillé du téléchargement des mises à jour, puis redémarrage choisi.
+- Streamer OFF au lancement et switch ON/OFF dans la barre supérieure.
+
+Le moteur de paroles se télécharge séparément ; sa capture audio nécessite
+Windows 11 et sa précision varie selon les morceaux. Remote reste en test fermé
+Android : [rejoindre les tests](https://musicdesktop.net/fr/remote.html).
+
 ## Télécharger
 
 ➡️ **[Télécharger la dernière version de Music Desktop](https://github.com/Azashiin/Music-Desktop-Releases/releases/latest)**

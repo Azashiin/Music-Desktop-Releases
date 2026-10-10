@@ -37,6 +37,21 @@ Audio capture is configured separately in your streaming software.
 
 ![MusicDesktop overlay styles](../assets/streamer-styles.png)
 
+## New in 2.0.5
+
+- Lyrics on Remote with YouTube Music and LRCLIB; an optional **experimental**
+  local engine for lyrics without sync timings.
+- Queue reordering and playlist management for the YouTube Music account
+  connected on your PC, with **Remote 1.0.5 or a compatible version**.
+- Last.fm connection and listening history after explicit opt-in.
+- Three themes: MusicDesktop, Akyraïs and Asashiin.
+- Detailed update downloads, followed by a restart when you choose.
+- Streamer starts OFF, with an ON/OFF switch in the app’s top bar.
+
+Download the lyrics engine separately; audio capture requires Windows 11 and
+timing accuracy varies by track. Remote remains in Android closed testing:
+[join the test](https://musicdesktop.net/en/remote.html).
+
 ## Download
 
 ➡️ **[Download the latest version of Music Desktop](https://github.com/Azashiin/Music-Desktop-Releases/releases/latest)**

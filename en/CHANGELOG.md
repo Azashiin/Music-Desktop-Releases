@@ -2,6 +2,54 @@
 
 What is new and improved in Music Desktop.
 
+## 2.0.5 — Lyrics, themes and Last.fm — October 11, 2026
+
+### Lyrics on Remote
+
+- Open the current track’s lyrics from **Lyrics** in the centre of Remote’s top bar. The button stays grey when lyrics are unavailable.
+- YouTube Music lyrics are supplemented by LRCLIB. When timings exist, the current line is highlighted and scrolls with playback.
+- Tap a line to seek, resume following after manual scrolling, and adjust a timing offset in 50 ms steps.
+- The source stays visible: original sync in grey, estimated **Synced by MusicDesktop** timings in red.
+
+### Automatic lyrics — EXPERIMENTAL
+
+- An optional engine locally analyses a full listen when lyrics exist without timings. YouTube Music or LRCLIB timings keep priority.
+- Download the engine separately with per-file byte, percentage and speed tracking; cancel, resume or remove it in settings.
+- Browse analysed tracks in a dedicated window, try a result or delete it. Saved results are used for future listens.
+- Status shows lyric lookup, received audio and processing stages. Fixed crashes when stopping analysis and handling vocal isolation.
+- **This feature remains experimental** and OFF by default. Audio capture requires Windows 11; models take several GB, and processing uses CPU and memory. Accuracy varies by track; millisecond accuracy is not guaranteed. No audio is sent to a recognition service.
+
+### Your queue and playlists
+
+- Reorder upcoming tracks in Remote by dragging them or using move controls.
+- Access playlists from the YouTube Music account connected on your PC: private creation by default, renaming, deletion and removing a song.
+- Add the current track to a playlist from the player. Fixed confirmations and refreshes after creating playlists or adding tracks.
+
+**The mobile features above require MusicDesktop Remote 1.0.5 or a compatible version.** Remote remains in Android closed testing; the PC installer does not include the mobile app. [Join the test](https://musicdesktop.net/en/remote.html).
+
+### Last.fm
+
+- Connect your account in **Settings → Last.fm**, authorise MusicDesktop in your browser, then enable recording.
+- The current track appears on your profile. Tracks longer than 30 seconds are scrobbled after half their duration actually listened to, or four minutes for longer tracks.
+- Sends run on the PC even with the phone closed. Pending listens are protected under Windows and resume when Last.fm is available again.
+- Stop recording or disconnect at any time. No audio is sent to Last.fm.
+
+### Themes and settings
+
+- Three themes: **MusicDesktop**, **Akyraïs** (pure white and lavender) and **Asashiin** (deeper black and electric purple).
+- Aligned navigation icons, revised wording and redesigned Streamer/Automatic lyrics settings.
+- A prominent **EXPERIMENTAL** label at the top of Automatic lyrics settings.
+
+### Updates and Streamer
+
+- New in-app download tracking: file name, size, received bytes, percentage and speed.
+- A downloaded update stays ready until you choose to restart. Its signature is checked before installation.
+- Update notifications appear after the app has loaded.
+- Streamer **ON/OFF** switch in the top bar. Streamer starts OFF each time, preserving your settings and OBS links.
+- Existing overlays and Deckboard/Stream Deck extensions remain compatible.
+
+Download **Music.Desktop_2.0.5_x64-setup.exe** for 64-bit Windows 10/11. Lyrics models are optional and downloaded separately. Preferences, Remote pairings and installed models are preserved during a normal update.
+
 ## 2.0.4 — MusicDesktop Remote compatibility fix — October 8, 2026
 
 - Restored current-track information, artwork, progress and playback-state updates in Remote after 2.0.3.
