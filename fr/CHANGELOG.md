@@ -2,6 +2,14 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 2.0.6 — Correctif de la gestion des playlists — 11 octobre 2026
+
+- Rétablissement du chargement des playlists dans Remote et du choix d'une playlist depuis le lecteur.
+- Identification du morceau en cours conservée pendant la navigation dans YouTube Music, pour permettre son ajout sans revenir à sa page de lecture.
+- Ajouts plus rapides, confirmations fiables et protection contre les doublons lorsqu'une demande est encore en cours.
+
+Mise à jour à installer sur le PC. **Remote 1.0.5 reste compatible** ; aucune mise à jour mobile n'est nécessaire pour ce correctif.
+
 ## 2.0.5 — Paroles, thèmes et Last.fm — 11 octobre 2026
 
 ### Les paroles sur Remote

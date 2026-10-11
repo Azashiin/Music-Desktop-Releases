@@ -37,7 +37,14 @@ La capture audio se configure séparément dans votre logiciel de diffusion.
 
 ![Styles d'overlay MusicDesktop](../assets/streamer-styles.png)
 
-## Nouveautés de la 2.0.5
+## Correctif de la 2.0.6
+
+Les playlists se chargent à nouveau dans Remote. Le choix d'une destination et
+l'ajout du morceau en cours fonctionnent aussi pendant la navigation dans
+YouTube Music, avec une confirmation fiable et une protection contre les doublons.
+Installez cette mise à jour sur le PC ; **Remote 1.0.5 reste compatible**.
+
+## Nouveautés introduites en 2.0.5
 
 - Paroles sur Remote, avec YouTube Music et LRCLIB ; moteur local facultatif
   **expérimental** pour les textes sans synchronisation.

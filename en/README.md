@@ -37,7 +37,14 @@ Audio capture is configured separately in your streaming software.
 
 ![MusicDesktop overlay styles](../assets/streamer-styles.png)
 
-## New in 2.0.5
+## Fixed in 2.0.6
+
+Playlists load again in Remote. Picking a destination and adding the current
+track also work while you browse YouTube Music, with reliable confirmation
+and protection against duplicate additions. Install this update on the PC;
+**Remote 1.0.5 remains compatible**.
+
+## Features introduced in 2.0.5
 
 - Lyrics on Remote with YouTube Music and LRCLIB; an optional **experimental**
   local engine for lyrics without sync timings.

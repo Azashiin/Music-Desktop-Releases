@@ -2,6 +2,14 @@
 
 What is new and improved in Music Desktop.
 
+## 2.0.6 — Playlist management fix — October 11, 2026
+
+- Restored playlist loading in Remote and the playlist picker opened from the player.
+- Kept the current track correctly identified while browsing YouTube Music, so it can be added without returning to its playback page.
+- Faster additions, reliable confirmations and protection against duplicates while a request is still in progress.
+
+Install the update on the PC. **Remote 1.0.5 remains compatible**; no mobile update is needed for this fix.
+
 ## 2.0.5 — Lyrics, themes and Last.fm — October 11, 2026
 
 ### Lyrics on Remote
