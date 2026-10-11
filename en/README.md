@@ -44,6 +44,10 @@ track also work while you browse YouTube Music, with reliable confirmation
 and protection against duplicate additions. Install this update on the PC;
 **Remote 1.0.5 remains compatible**.
 
+This edition also fixes the update buttons in the header and Settings.
+If you already used the first 2.0.6, or those buttons do not respond in 2.0.5,
+reinstall the new full installer.
+
 ## Features introduced in 2.0.5
 
 - Lyrics on Remote with YouTube Music and LRCLIB; an optional **experimental**

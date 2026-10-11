@@ -44,6 +44,10 @@ l'ajout du morceau en cours fonctionnent aussi pendant la navigation dans
 YouTube Music, avec une confirmation fiable et une protection contre les doublons.
 Installez cette mise à jour sur le PC ; **Remote 1.0.5 reste compatible**.
 
+Cette édition corrige aussi les boutons de mise à jour du header et des
+paramètres. Si vous utilisiez déjà la première 2.0.6, ou si ces boutons ne
+répondent pas dans la 2.0.5, réinstallez le nouvel installateur complet.
+
 ## Nouveautés introduites en 2.0.5
 
 - Paroles sur Remote, avec YouTube Music et LRCLIB ; moteur local facultatif

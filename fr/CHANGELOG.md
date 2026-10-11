@@ -2,11 +2,15 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
-## 2.0.6 — Correctif de la gestion des playlists — 11 octobre 2026
+## 2.0.6 — Correctifs des playlists et des mises à jour — 11 octobre 2026
 
 - Rétablissement du chargement des playlists dans Remote et du choix d'une playlist depuis le lecteur.
 - Identification du morceau en cours conservée pendant la navigation dans YouTube Music, pour permettre son ajout sans revenir à sa page de lecture.
 - Ajouts plus rapides, confirmations fiables et protection contre les doublons lorsqu'une demande est encore en cours.
+- Correction du suivi de mise à jour qui ne s'ouvrait pas depuis le header et les paramètres après le chargement de YouTube Music.
+- Notifications et erreurs visibles, avec possibilité de réessayer l'ouverture ou le téléchargement.
+
+Le paquet initial 2.0.6 a été remplacé sans changer de numéro de version. Réinstallez manuellement le nouvel installateur si vous utilisiez déjà la première 2.0.6, ou si le bouton de mise à jour ne répond pas dans la 2.0.5.
 
 Mise à jour à installer sur le PC. **Remote 1.0.5 reste compatible** ; aucune mise à jour mobile n'est nécessaire pour ce correctif.
 

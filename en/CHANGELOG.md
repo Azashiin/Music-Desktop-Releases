@@ -2,11 +2,15 @@
 
 What is new and improved in Music Desktop.
 
-## 2.0.6 — Playlist management fix — October 11, 2026
+## 2.0.6 — Playlist and update fixes — October 11, 2026
 
 - Restored playlist loading in Remote and the playlist picker opened from the player.
 - Kept the current track correctly identified while browsing YouTube Music, so it can be added without returning to its playback page.
 - Faster additions, reliable confirmations and protection against duplicates while a request is still in progress.
+- Fixed update download details failing to open from the header and Settings after YouTube Music loaded.
+- Visible notifications and errors, with retries for panel opening or downloading.
+
+The original 2.0.6 package was replaced with the same version number. Manually reinstall the new installer if you already used the first 2.0.6, or if the update button does not respond in 2.0.5.
 
 Install the update on the PC. **Remote 1.0.5 remains compatible**; no mobile update is needed for this fix.
 
