@@ -2,6 +2,38 @@
 
 What is new and improved in Music Desktop.
 
+## 2.0.7 — Consolidation and optimisation — October 13, 2026
+
+### Automatic lyrics — EXPERIMENTAL
+
+- **Auto Lyrics ON/OFF** switch in the top bar, to the left of Streamer. The current track, analysis status and number of queued tracks stay visible.
+- An analysis queue preserves pending work across restarts. **OFF** pauses processing and keeps the queue; **ON** resumes it. Waiting tracks can be removed.
+- The next listen can be captured while the previous track is being processed. Tracks with saved results or existing sync timings are not recalculated, and duplicates are avoided.
+- Timings saved by MusicDesktop are used automatically in Remote, including results from previous listens.
+- **Details and lyrics** replaces manual activation: view the title, artist, duration, save date when known, timing quality and lyrics with their timestamps.
+- Fixed the analysed-track window failing to open after YouTube Music loaded, and the risk of freezing when switching ON/OFF.
+- Improved preparation of simple numbers in French and English, hours such as **18h** and **9h**, and forms such as **3G**. Original lyric text is retained; genuinely ambiguous numeric forms remain flagged.
+- Lyric timing and vocal separation processing optimised to limit temporary data retained in memory.
+- Clearer status: vocal separation progress, elapsed time per stage and the date of the last attempt. Interrupted listens are distinguished from silent recordings, and result-list errors no longer hide the current analysis.
+
+**Auto Lyrics remains optional and experimental.** Timings supplied by YouTube Music or LRCLIB keep priority. Audio capture requires Windows 11, and models are downloaded separately. Analysis runs on the PC; recordings for pending work are kept temporarily to allow resuming, then deleted after processing or removal from the queue. Accuracy and processing time vary by track and PC.
+
+### Responsiveness and resource use
+
+- Last.fm avoids repeatedly reading its configuration during playback. Scrobbling continues while Settings is closed.
+- Update downloads avoid an extra full copy of the file in memory.
+- Remote connections handle network timeouts, reconnections and expired replies more reliably. Old notifications are no longer applied to the next track.
+- Abandoned lyric lookups are released even without a paired phone. Settings display updates pause while Settings is hidden.
+
+### Installation and compatibility
+
+- Fixed text colours in the installer's language selectors.
+- Playlist and update-button fixes from 2.0.6 are retained.
+
+**MusicDesktop Remote 1.0.5 remains compatible.** Preferences, Remote pairings and installed models are preserved during a normal update.
+
+Download **Music.Desktop_2.0.7_x64-setup.exe** for 64-bit Windows 10/11, or update from within MusicDesktop. If update buttons do not respond in your older version, fully close MusicDesktop and use the full installer.
+
 ## 2.0.6 — Playlist and update fixes — October 11, 2026
 
 - Restored playlist loading in Remote and the playlist picker opened from the player.

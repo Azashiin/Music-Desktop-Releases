@@ -37,6 +37,20 @@ Audio capture is configured separately in your streaming software.
 
 ![MusicDesktop overlay styles](../assets/streamer-styles.png)
 
+## 2.0.7 — Consolidation and optimisation
+
+Auto Lyrics has a switch in the top bar and an analysis queue that preserves
+pending work across restarts. Saved results are used automatically in Remote;
+**Details and lyrics** lets you inspect each track and its timings.
+
+This version fixes result-list opening and the risk of freezing when toggling
+the switch, improves processing status, and limits repeated work and temporary
+data held in memory. It also improves language readability in the installer.
+**Auto Lyrics remains optional and experimental**; timings supplied by YouTube
+Music or LRCLIB keep priority.
+
+**Remote 1.0.5 remains compatible.** Read the [full release notes](CHANGELOG.md).
+
 ## Fixed in 2.0.6
 
 Playlists load again in Remote. Picking a destination and adding the current

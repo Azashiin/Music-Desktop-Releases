@@ -2,6 +2,38 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 2.0.7 — Consolidation et optimisation — 13 octobre 2026
+
+### Paroles automatiques — EXPÉRIMENTALE
+
+- Switch **Auto Lyrics ON/OFF** dans la barre supérieure, à gauche de Streamer. Le morceau en lecture, l'état de l'analyse et le nombre de pistes dans la file restent visibles.
+- Une file d'analyse conserve les travaux en attente après un redémarrage. **OFF** met le calcul en pause et conserve la file ; **ON** reprend le traitement. Vous pouvez retirer les pistes en attente.
+- L'écoute suivante peut être enregistrée pendant le calcul du morceau précédent. Les morceaux déjà analysés ou disposant d'une synchronisation ne sont pas recalculés, et les doublons sont évités.
+- Les synchronisations enregistrées par MusicDesktop sont utilisées automatiquement dans Remote, y compris les résultats des écoutes précédentes.
+- **Détails et paroles** remplace l'activation manuelle : retrouvez le titre, l'artiste, la durée, la date d'enregistrement lorsqu'elle est connue, la précision du calage et les paroles avec leurs horaires.
+- Correction de l'ouverture de la fenêtre des morceaux analysés après le chargement de YouTube Music et du risque de blocage en actionnant ON/OFF.
+- Meilleure préparation des nombres simples en français et en anglais, des heures comme **18h** et **9h**, et des écritures comme **3G**. Le texte original des paroles est conservé ; les écritures réellement ambiguës restent signalées.
+- Calcul du calage et isolation du chant optimisés pour limiter les données temporaires conservées en mémoire.
+- Suivi plus clair : progression de l'isolation du chant, temps écoulé par étape et date du dernier essai. Une écoute interrompue est distinguée d'un enregistrement silencieux, et les erreurs de la liste des résultats ne masquent plus l'analyse en cours.
+
+**Auto Lyrics reste facultatif et expérimental.** Les synchronisations fournies par YouTube Music ou LRCLIB restent prioritaires. La capture audio nécessite Windows 11 et les modèles se téléchargent séparément. L'analyse se fait sur le PC ; les enregistrements des travaux en attente sont conservés temporairement pour permettre la reprise, puis supprimés après traitement ou retrait de la file. La précision et le temps de calcul varient selon les morceaux et le PC.
+
+### Réactivité et consommation de ressources
+
+- Last.fm évite les relectures répétées de sa configuration pendant l'écoute. L'enregistrement des écoutes continue lorsque les paramètres sont fermés.
+- Le téléchargement des mises à jour évite une copie complète supplémentaire du fichier en mémoire.
+- La connexion Remote gère mieux les délais réseau, les reconnexions et les réponses périmées. Les anciennes notifications ne sont plus appliquées au morceau suivant.
+- Les recherches de paroles abandonnées sont libérées même sans téléphone associé. Les mises à jour de l'affichage des paramètres se suspendent lorsqu'ils sont cachés.
+
+### Installation et compatibilité
+
+- Correction de la couleur du texte dans les sélecteurs de langue de l'installateur.
+- Les correctifs des playlists et des boutons de mise à jour de la 2.0.6 sont conservés.
+
+**MusicDesktop Remote 1.0.5 reste compatible.** Vos préférences, associations Remote et modèles installés sont conservés lors d'une mise à jour normale.
+
+Téléchargez **Music.Desktop_2.0.7_x64-setup.exe** pour Windows 10/11, 64 bits, ou utilisez la mise à jour depuis MusicDesktop. Si les boutons de mise à jour ne répondent pas dans votre ancienne version, fermez complètement MusicDesktop et utilisez l'installateur complet.
+
 ## 2.0.6 — Correctifs des playlists et des mises à jour — 11 octobre 2026
 
 - Rétablissement du chargement des playlists dans Remote et du choix d'une playlist depuis le lecteur.

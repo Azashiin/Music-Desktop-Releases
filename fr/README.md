@@ -37,6 +37,21 @@ La capture audio se configure séparément dans votre logiciel de diffusion.
 
 ![Styles d'overlay MusicDesktop](../assets/streamer-styles.png)
 
+## 2.0.7 — Consolidation et optimisation
+
+Auto Lyrics dispose d'un switch dans la barre supérieure et d'une file d'analyse
+qui conserve les travaux en attente après redémarrage. Les résultats enregistrés
+sont utilisés automatiquement dans Remote ; **Détails et paroles** permet de
+consulter chaque morceau et son calage.
+
+Cette version corrige l'ouverture de la liste des résultats et le risque de blocage
+du switch, améliore le suivi du calcul et limite les traitements répétés et les
+données temporaires en mémoire. Elle corrige aussi la lisibilité des langues
+dans l'installateur. **Auto Lyrics reste facultatif et expérimental** ; les
+synchronisations de YouTube Music ou LRCLIB restent prioritaires.
+
+**Remote 1.0.5 reste compatible.** Consultez les [notes complètes](CHANGELOG.md).
+
 ## Correctif de la 2.0.6
 
 Les playlists se chargent à nouveau dans Remote. Le choix d'une destination et
