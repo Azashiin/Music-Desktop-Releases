@@ -2,6 +2,45 @@
 
 What is new and improved in Music Desktop.
 
+## 2.0.8 — Listen Together — October 15, 2026
+
+### Listen together
+
+- New **Listen Together** module: create a private or public room, then join through a code, link or Discord invitation.
+- The host shares the track and directs Play/Pause, Previous/Next and seeking. Each participant plays music through their own YouTube Music player.
+- More flexible synchronisation: guests slightly ahead are not moved backwards. Automatic catch-up occurs only when they are **more than 5 seconds behind**; intentional host seeks are still followed.
+- **Volume stays individual.** YouTube Music advertisements and account restrictions are individual too; a warning explains their effect before joining.
+- Listen Together starts **OFF** on every normal launch. ON opens the manager without automatically creating a room. Closing the manager keeps the session; OFF leaves it, ends it for the host and keeps local music playing.
+
+### Manager, queue and proposals
+
+- Navigation on the left, playback and queue in the centre, participants and Vote Skip on the right. MusicDesktop, Akyraïs and Asashiin themes are retained; advanced actions stay in menus.
+- Editable room name, per-participant roles and permissions, voting and **Vote Skip** configured by the host.
+- Separate **Queue**, **Proposals** and **History** tabs, with an activity log showing who proposes what.
+- Track search belongs in **Proposals**. The “Propose a track” button opens that tab and focuses search.
+- Propose **all accessible tracks from a playlist** in your library or a YouTube Music link. Duplicates are avoided; imports exceeding queue capacity are reported without partial additions. A playlist proposal can be approved or removed as a group.
+- Invitations with a code, link and **QR**, quick copy, expiry and revocation. Optional side panel, remembered manager position and an Always on Top option.
+- Use your **YouTube Music name and avatar**, with an option to disable this and keep a custom nickname.
+
+### Native Discord invites
+
+- Hosts can publish a joinable Listen Together activity and use the MusicDesktop option in the **“+” menu of desktop Discord conversations**.
+- The group includes participant count and capacity. Private rooms require explicit Discord-invite activation; hosts can accept or decline Ask to Join requests.
+- Native acceptance, manager opening and MusicDesktop launch handling are supported. Ending a room invalidates its invitations.
+- Fixed the activity request and separated session acknowledgement from fallback music presence. The Discord panel provides a diagnostic without identifiers or secrets.
+- Ordinary Rich Presence URL buttons are retained and return outside a joinable activity.
+
+### Header and Auto Lyrics
+
+- **Flat header without cards**, with **Listen Together**, **Auto Lyrics** and **Streamer** switches and aligned ON/OFF states.
+- Clicking the Listen Together label opens or brings the manager to the foreground.
+- When Auto Lyrics is **OFF**, its entire information block is hidden: track/artist, playback state, analysis and queue count. **ON** restores it with the queue retained.
+- More compact Settings and Mini Player controls on smaller windows; update download percentage remains visible.
+
+**Remote 1.0.5 remains compatible.** Auto Lyrics stays optional and experimental. Preferences, Remote pairings and installed models are preserved during a normal update.
+
+Download **Music.Desktop_2.0.8_x64-setup.exe** for 64-bit Windows 10/11, or use the in-app updater and restart MusicDesktop to apply it.
+
 ## 2.0.7 — Consolidation and optimisation — October 13, 2026
 
 ### Automatic lyrics — EXPERIMENTAL

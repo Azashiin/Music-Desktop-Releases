@@ -37,6 +37,17 @@ Audio capture is configured separately in your streaming software.
 
 ![MusicDesktop overlay styles](../assets/streamer-styles.png)
 
+## 2.0.8 — Listen Together
+
+Listen together in a private or public room. The manager shares playback, track
+and playlist proposals, voting and permissions. Each participant keeps their own
+volume and YouTube Music player. Native Discord invites are available from the
+desktop client’s “+” menu.
+
+The header stays flat, with Listen Together, Auto Lyrics and Streamer switches.
+Listen Together starts OFF; Auto Lyrics OFF hides its information block.
+**Remote 1.0.5 remains compatible.** Read the [full release notes](CHANGELOG.md).
+
 ## 2.0.7 — Consolidation and optimisation
 
 Auto Lyrics has a switch in the top bar and an analysis queue that preserves

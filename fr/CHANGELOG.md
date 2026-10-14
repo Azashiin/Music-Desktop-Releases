@@ -2,6 +2,45 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 2.0.8 — Listen Together — 15 octobre 2026
+
+### Écouter ensemble
+
+- Nouveau module **Listen Together** : créez un salon privé ou public, puis rejoignez-le par code, lien ou invitation Discord.
+- L’hôte partage le morceau et dirige Lecture/Pause, Précédent/Suivant et les déplacements dans le titre. Chaque participant lit la musique depuis son propre lecteur YouTube Music.
+- Synchronisation plus souple : un invité légèrement en avance ne subit pas de retour arrière. Le rattrapage automatique intervient lorsqu’il a **plus de 5 secondes de retard** ; les déplacements volontaires de l’hôte restent suivis.
+- **Le volume reste individuel.** Les publicités et les restrictions du compte YouTube Music le sont aussi ; un avertissement explique leur effet avant de rejoindre.
+- Listen Together démarre **OFF** à chaque lancement normal. ON ouvre le gestionnaire sans créer automatiquement de salon. Fermer le gestionnaire conserve la session ; OFF la quitte, la termine si vous êtes l’hôte et laisse votre musique locale jouer.
+
+### Gestionnaire, file et propositions
+
+- Navigation à gauche, lecture et file au centre, participants et Vote Skip à droite. Les thèmes MusicDesktop, Akyraïs et Asashiin sont conservés ; les actions avancées restent dans les menus.
+- Nom du salon modifiable, rôles et permissions par participant, votes et **Vote Skip** configurables par l’hôte.
+- Onglets **File d’attente**, **Propositions** et **Historique**, avec un journal indiquant qui propose quoi.
+- La recherche de morceaux se trouve dans **Propositions**. Le bouton « Proposer une musique » ouvre cet onglet et place le curseur dans la recherche.
+- Proposez aussi **tous les morceaux accessibles d’une playlist** de votre bibliothèque ou d’un lien YouTube Music. Les doublons sont évités ; les imports dépassant la capacité de la file sont signalés sans ajout partiel. Une proposition de playlist peut être approuvée ou retirée en groupe.
+- Invitations par code, lien et **QR**, copie rapide, durée de validité et révocation. Panneau latéral facultatif, position du gestionnaire mémorisée et option « Toujours au-dessus ».
+- Utilisation du **nom et de l’avatar YouTube Music**, avec possibilité de désactiver ce choix et de conserver un pseudo personnalisé.
+
+### Invitations natives Discord
+
+- Les hôtes peuvent publier une activité Listen Together joignable et utiliser l’option MusicDesktop du **menu « + » des conversations Discord sur PC**.
+- Le groupe indique ses participants et sa capacité. Dans un salon privé, les invitations Discord nécessitent une activation explicite ; les demandes pour rejoindre peuvent être acceptées ou refusées par l’hôte.
+- Prise en charge de l’acceptation native, de l’ouverture du gestionnaire et du lancement de MusicDesktop. Terminer le salon invalide ses invitations.
+- Correction de la requête d’activité et séparation de la confirmation du salon de celle de la présence musicale de secours. Le panneau Discord propose un diagnostic sans identifiant ni secret.
+- Les boutons URL habituels du Rich Presence sont conservés et reviennent hors activité joignable.
+
+### Header et Auto Lyrics
+
+- **Header plat, sans cartes**, avec les switches **Listen Together**, **Auto Lyrics** et **Streamer**, et leurs états ON/OFF alignés.
+- Cliquer sur le libellé Listen Together ouvre ou ramène le gestionnaire au premier plan.
+- Quand Auto Lyrics est **OFF**, tout son bloc d’informations est masqué : titre/artiste, état de lecture, analyse et compteur de file. **ON** le réaffiche avec la file conservée.
+- Commandes Paramètres et Mini-lecteur plus compactes sur les petites fenêtres ; le pourcentage de téléchargement des mises à jour reste visible.
+
+**Remote 1.0.5 reste compatible.** Auto Lyrics conserve son statut facultatif et expérimental. Les préférences, associations Remote et modèles installés sont conservés lors d’une mise à jour normale.
+
+Téléchargez **Music.Desktop_2.0.8_x64-setup.exe** pour Windows 10/11, 64 bits, ou utilisez la mise à jour intégrée puis redémarrez MusicDesktop pour l’appliquer.
+
 ## 2.0.7 — Consolidation et optimisation — 13 octobre 2026
 
 ### Paroles automatiques — EXPÉRIMENTALE

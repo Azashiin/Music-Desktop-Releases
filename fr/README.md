@@ -37,6 +37,17 @@ La capture audio se configure séparément dans votre logiciel de diffusion.
 
 ![Styles d'overlay MusicDesktop](../assets/streamer-styles.png)
 
+## 2.0.8 — Listen Together
+
+Écoutez ensemble dans un salon privé ou public. Le gestionnaire partage la lecture,
+les propositions de morceaux et de playlists, les votes et les permissions. Chaque
+participant garde son volume et son lecteur YouTube Music. Les invitations natives
+Discord sont accessibles depuis le menu « + » du client PC.
+
+Le header reste plat, avec les switches Listen Together, Auto Lyrics et Streamer.
+Listen Together démarre OFF ; Auto Lyrics OFF masque son bloc d’informations.
+**Remote 1.0.5 reste compatible.** Consultez les [notes complètes](CHANGELOG.md).
+
 ## 2.0.7 — Consolidation et optimisation
 
 Auto Lyrics dispose d'un switch dans la barre supérieure et d'une file d'analyse
