@@ -37,6 +37,17 @@ Audio capture is configured separately in your streaming software.
 
 ![MusicDesktop overlay styles](../assets/streamer-styles.png)
 
+## 2.0.9 — Themes and display
+
+Five themes are available: MusicDesktop, Akyraïs, Asashiin, Glass and Deep Ocean.
+Akyraïs pairs white marble with lavender crystal and readable YTM text;
+Asashiin returns to pure black. Glass reveals the desktop with light blur on
+compatible Windows 11 systems, while Deep Ocean keeps its blue/charcoal atmosphere.
+
+This version also improves player viewport recalculation after restoring the
+window, returning to the app or changing display scale.
+**Remote 1.0.5 remains compatible.** Read the [full release notes](CHANGELOG.md).
+
 ## 2.0.8 — Listen Together
 
 Listen together in a private or public room. The manager shares playback, track

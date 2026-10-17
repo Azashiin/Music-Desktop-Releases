@@ -2,6 +2,33 @@
 
 What is new and improved in Music Desktop.
 
+## 2.0.9 — Themes and display — October 17, 2026
+
+### Five MusicDesktop themes
+
+- Choose **MusicDesktop**, **Akyraïs**, **Asashiin**, **Glass** or **Deep Ocean** in Settings → General. The header stays flat and logos retain their original colours.
+- **Akyraïs** combines white marble and lavender crystal with dark text. YouTube Music titles, links, menus, search fields, player tabs and queue information are easier to read.
+- Removed YTM page fills, gradients and ambient artwork covering the Akyraïs marble. Covers, artist photos and videos are retained; artist information uses a light surface with matching text colours.
+- **Asashiin** returns to pure black with electric violet accents.
+- **Deep Ocean** keeps the dark blue/charcoal variant, light accents and an atmosphere based on the current track’s artwork.
+
+### Glass: see through the application
+
+- **Glass** reveals the desktop and windows behind MusicDesktop, with stable transparency while stationary and after moving the window.
+- A light background blur is available on compatible Windows 11 systems. Text, artwork and controls stay sharp; search, player controls and menus keep denser surfaces for readability.
+- Removed decorative YTM layers that masked transparency. Background blur depends on Windows capabilities and transparency settings; the theme retains a transparent background if blur cannot be enabled.
+- The theme is now named **Glass**. The dark blue variant remains separately available as **Deep Ocean**.
+
+### YouTube Music player layout
+
+- Recalculate the player viewport when returning to MusicDesktop, restoring the window or changing display scale.
+- Apply player position and size together; temporary minimized-window dimensions no longer replace the usable viewport.
+- Once the window and loading settle, YouTube Music recalculates its layout using its own styles, without reloading the page or issuing commands that interrupt music.
+
+**Remote 1.0.5 remains compatible.** Auto Lyrics stays optional and experimental. Preferences, Remote pairings and installed models are preserved during a normal update.
+
+Download **Music.Desktop_2.0.9_x64-setup.exe** for 64-bit Windows 10/11, or use the in-app updater and restart MusicDesktop to apply it.
+
 ## 2.0.8 — Listen Together — October 15, 2026
 
 ### Listen together

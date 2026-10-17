@@ -2,6 +2,33 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 2.0.9 — Thèmes et affichage — 17 octobre 2026
+
+### Cinq thèmes pour MusicDesktop
+
+- Choisissez **MusicDesktop**, **Akyraïs**, **Asashiin**, **Glass** ou **Deep Ocean** dans Paramètres → Général. Le header reste plat et les logos conservent leurs couleurs d’origine.
+- **Akyraïs** associe un marbre blanc et un cristal lavande à des textes foncés. Les titres, liens, menus, champs de recherche, onglets du lecteur et informations de la file YouTube Music sont plus lisibles.
+- Retrait des fonds, dégradés et images d’ambiance YTM qui recouvraient le marbre Akyraïs. Les pochettes, photos d’artiste et vidéos sont conservées ; la zone d’informations des artistes reçoit une surface claire et des textes assortis.
+- **Asashiin** retrouve un noir pur, avec ses accents violet électrique.
+- **Deep Ocean** conserve la variante sombre bleu/charbon, ses accents clairs et une ambiance issue de la pochette du morceau.
+
+### Glass : voir au travers de l’application
+
+- **Glass** laisse voir le bureau et les fenêtres derrière MusicDesktop, avec une transparence stable à l’arrêt et après déplacement.
+- Un léger flou de l’arrière-plan est disponible sur les systèmes Windows 11 compatibles. Les textes, pochettes et commandes restent nets ; la recherche, le lecteur et les menus gardent des surfaces plus denses pour leur lisibilité.
+- Suppression des calques décoratifs YTM qui masquaient la transparence. Le rendu du flou dépend des possibilités et des réglages de transparence de Windows ; le thème conserve un fond transparent si ce flou ne peut pas être activé.
+- Le thème s’appelle désormais **Glass**. La variante bleu sombre reste accessible séparément sous le nom **Deep Ocean**.
+
+### Affichage du lecteur YouTube Music
+
+- Recalcul de la zone du lecteur au retour dans MusicDesktop, après restauration de la fenêtre et lors d’un changement d’échelle d’écran.
+- Position et taille du lecteur appliquées ensemble ; les dimensions transitoires d’une fenêtre réduite ne remplacent plus sa zone d’affichage utilisable.
+- Après stabilisation de la fenêtre et du chargement, YouTube Music recalcule son affichage avec ses propres styles, sans rechargement de la page ni commande interrompant la musique.
+
+**Remote 1.0.5 reste compatible.** Auto Lyrics reste facultatif et expérimental. Les préférences, associations Remote et modèles installés sont conservés lors d’une mise à jour normale.
+
+Téléchargez **Music.Desktop_2.0.9_x64-setup.exe** pour Windows 10/11, 64 bits, ou utilisez la mise à jour intégrée puis redémarrez MusicDesktop pour l’appliquer.
+
 ## 2.0.8 — Listen Together — 15 octobre 2026
 
 ### Écouter ensemble
