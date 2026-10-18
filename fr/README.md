@@ -4,21 +4,23 @@
 
 [English version](../en/README.md)
 
-## YouTube Music à sa place.
+## Votre musique à sa place.
 
-**Music Desktop** est une application Windows dédiée à YouTube Music. Elle s’adresse à celles et ceux qui veulent simplement écouter leur musique sans laisser un navigateur ouvert uniquement pour un onglet de lecture.
+**Music Desktop** réunit YouTube Music et vos fichiers audio dans une application Windows. Écoutez votre bibliothèque locale ou retrouvez votre compte YouTube Music sans garder un navigateur ouvert pour la musique.
 
 Votre musique garde sa propre fenêtre, distincte de votre navigation, de vos recherches et de vos autres activités.
 
 ## Pourquoi Music Desktop ?
 
 - Une fenêtre dédiée à YouTube Music, sans onglet de navigateur à garder ouvert.
+- Un lecteur pour vos fichiers audio, avec une bibliothèque et une file d’attente conservées.
+- Des sessions Listen Together pour choisir les morceaux et écouter ensemble.
 - Un mini-lecteur qui reste accessible au-dessus des autres fenêtres.
 - Des commandes simples pour continuer à écouter pendant que vous travaillez, jouez ou discutez.
 - Une intégration Discord facultative pour afficher le morceau en cours d’écoute.
 - L’association avec MusicDesktop Remote pour piloter la lecture depuis votre téléphone.
 
-Music Desktop ne prétend pas transformer YouTube Music : l’objectif est simplement de lui donner une place plus naturelle sur Windows, dans une application pensée pour la musique.
+Music Desktop donne à votre musique sa propre place sur Windows, avec des commandes accessibles et une écoute adaptée à vos habitudes.
 
 ## MusicDesktop Remote
 
@@ -36,6 +38,20 @@ ou le plugin Elgato Stream Deck, disponibles dans **Panneau Streamer → Command
 La capture audio se configure séparément dans votre logiciel de diffusion.
 
 ![Styles d'overlay MusicDesktop](../assets/streamer-styles.png)
+
+## 2.0.10 — Votre musique, à écouter et à partager
+
+Choisissez YouTube Music ou vos fichiers audio depuis le nouvel accueil.
+Le lecteur local conserve votre bibliothèque et votre file d’attente et
+fonctionne aussi avec le mini-lecteur et les raccourcis.
+
+Listen Together permet de proposer des morceaux ou des playlists depuis
+YouTube Music et de décider ensemble de la suite. Les votes sont plus faciles
+à suivre, les notifications vous tiennent informé et le volume réagit pendant
+le déplacement du curseur. Retrouvez les nouveautés dans la fenêtre
+« Quoi de neuf ? » après chaque mise à jour.
+
+Consultez les [notes complètes](CHANGELOG.md).
 
 ## 2.0.9 — Thèmes et affichage
 

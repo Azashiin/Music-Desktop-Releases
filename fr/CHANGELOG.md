@@ -2,6 +2,17 @@
 
 Les nouveautés et améliorations de Music Desktop.
 
+## 2.0.10 — Votre musique, à écouter et à partager — 18 octobre 2026
+
+- Votre musique au même endroit : choisissez YouTube Music ou vos fichiers audio depuis le nouvel accueil de MusicDesktop.
+- Écoutez votre bibliothèque locale : ajoutez vos morceaux ou dossiers, recherchez un titre et profitez des pochettes, de la lecture aléatoire et de la répétition.
+- Retrouvez votre bibliothèque et votre file d’attente au prochain démarrage. Le mini-lecteur et les raccourcis prennent aussi en charge vos fichiers audio.
+- Choisissez la musique ensemble dans Listen Together : proposez des morceaux ou des playlists directement depuis YouTube Music, puis votez pour les ajouter à la file. Un seul vote collectif suffit pour toute la playlist.
+- Des votes plus faciles à suivre : consultez les réponses, les votes encore nécessaires et les résultats. Votez aussi pour retirer un titre ou passer au suivant, selon les règles choisies par l’hôte.
+- Suivez plus facilement la lecture des participants. Les notifications Windows vous informent des propositions, des votes et des changements de morceau, même lorsque MusicDesktop est réduit.
+- Un volume plus réactif : ajustez le son pendant le déplacement du curseur. Dans Listen Together, chaque participant garde son propre niveau d’écoute.
+- Découvrez les nouveautés après chaque mise à jour grâce à la nouvelle fenêtre « Quoi de neuf ? ».
+
 ## 2.0.9 — Thèmes et affichage — 17 octobre 2026
 
 ### Cinq thèmes pour MusicDesktop

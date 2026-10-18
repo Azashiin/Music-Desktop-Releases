@@ -4,21 +4,23 @@
 
 [Version française](../fr/README.md)
 
-## YouTube Music, in its own place.
+## Your music, in its own place.
 
-**Music Desktop** is a Windows application dedicated to YouTube Music. It is for anyone who simply wants to listen without leaving a full browser open just for a music tab.
+**Music Desktop** brings YouTube Music and your audio files together in a Windows application. Listen to your local library or use your YouTube Music account without keeping a browser open for music.
 
 Your music keeps its own window, separate from browsing, searches, and everything else you do.
 
 ## Why Music Desktop?
 
 - A dedicated YouTube Music window, without a browser tab to keep open.
+- An audio file player that saves your library and queue.
+- Listen Together sessions to choose tracks and listen with others.
 - A mini player that stays accessible above other windows.
 - Simple controls so your music is still within reach while you work, play, or chat.
 - Optional Discord integration to show the track you are listening to.
 - Pairing with MusicDesktop Remote to control playback from your phone.
 
-Music Desktop does not try to transform YouTube Music. Its purpose is simply to give it a more natural place on Windows, in an application made for music.
+Music Desktop gives your music its own place on Windows, with accessible controls and listening options that fit your habits.
 
 ## MusicDesktop Remote
 
@@ -36,6 +38,19 @@ or the Elgato Stream Deck plugin, available under **Streamer Dashboard → Contr
 Audio capture is configured separately in your streaming software.
 
 ![MusicDesktop overlay styles](../assets/streamer-styles.png)
+
+## 2.0.10 — Your music, to enjoy and share
+
+Choose YouTube Music or your audio files from the new home screen.
+The local player saves your library and queue and also works with the
+mini player and keyboard shortcuts.
+
+Listen Together lets you suggest songs or playlists from YouTube Music
+and decide what plays next as a group. Votes are easier to follow,
+notifications keep you informed, and volume responds as you drag the slider.
+Discover each update in the What’s new? window.
+
+Read the [full release notes](CHANGELOG.md).
 
 ## 2.0.9 — Themes and display
 
